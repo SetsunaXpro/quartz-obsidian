@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "359e5da69a9c1579",
+    "type": "split",
+    "children": [
+      {
+        "id": "2425092080d40019",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5979586a809eca1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2/A.L.P.H.A..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A.L.P.H.A."
+            }
+          },
+          {
+            "id": "c413dca1a0843720",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mission log/Operation Exorcist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Operation Exorcist"
+            }
+          },
+          {
+            "id": "8da26edc88236659",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mission log/Operation Exorcist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Operation Exorcist"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ebde857c1e25091",
+    "type": "split",
+    "children": [
+      {
+        "id": "949e28d8b6acab8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bc8dc249d400600",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f77b533f97e521f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fbac22c53834d65f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f8d9c4e21e11abc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f71705246f48c7ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16ea5e63d0cb4cfb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "77eec48db6f4b549",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3a43cc7c51bfc55e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a1d12f51ab0064ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8da26edc88236659",
+  "lastOpenFiles": [
+    "INDEX.md",
+    "Mission log/Operation Exorcist.md",
+    "Untitled 2/A.L.P.H.A..md",
+    "Untitled 1/Banaspati Flight.md",
+    "Mission log",
+    "Untitled 1/Indonesian Air Force.md",
+    "Untitled 1/Pawang Bedhil.md",
+    "Untitled 1/UNPF.md",
+    "Untitled 1/Indonesian Air Force - Copy.md",
+    "Untitled 2/Artilerry Type.md",
+    "Untitled 2/Fighter Type.md",
+    "Untitled 2/Shielder Type.md",
+    "Untitled 2",
+    "Untitled 1",
+    "Welcome.md",
+    "Covenant.md",
+    "Untitled"
+  ]
+}
